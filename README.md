@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @trackbee-sutirtha
 - 👀 I’m interested in Android Devlopment
-- 🌱 I’m currently learning SSE
 - 💞️ I’m looking to collaborate on Android Devlopment in Java
 - 📫 How to reach me: sutirtha.g@trackbee.com
 
